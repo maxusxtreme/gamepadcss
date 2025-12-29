@@ -1,1 +1,1 @@
-.ds4.disconnected { display: none; }
+.ds4.disconnected { display: none !important; }
